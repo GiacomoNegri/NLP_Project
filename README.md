@@ -1,4 +1,4 @@
-# Are we cooking? Or are we cooked? A comparative Analysis
+# From Transformers to the Table: How BERT and LLMs Cook Up Features Differently
 
 This repository contains a series of 10 Jupyter notebooks, datasets and images, where each notebook corresponds to one step in the process, from raw data filtering through an in-depth analysis of the misclassification errors. The goal was to execute a systematic comparison of an LLM-based classifier and a BERT-based classifier in terms of feature importance. 
 
